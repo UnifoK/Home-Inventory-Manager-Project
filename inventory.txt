@@ -1,0 +1,14 @@
+1
+Lenovo Laptop
+Nehru Place
+Len789456123
+false
+68000
+01/09/2022
+Lenovo Store
+I7 Laptop
+C:\Users\Sazid\Documents\NetBeansProjects\HomeJava\HomeJava Projects\HomeInventory\1547099254_img_20190109_162801.jpg
+3
+my space
+
+Nehru Place
